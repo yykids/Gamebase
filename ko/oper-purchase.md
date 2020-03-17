@@ -1,8 +1,8 @@
 ## IAP 메뉴 이용에 앞서
+IAP 메뉴를 이용하려면 결제 지표를 위한 통화를 먼저 선택해야 합니다.
 ![gamebase_purchase_01_201812](http://static.toastoven.net/prod_gamebase/Console_IAP_Select_currency_1.0.png)
-IAP 메뉴를 이용하려면 결제 지표를 위한 통화를 먼저 선택해 주셔야 합니다.
-최초 한번만 설정 가능하며 Analytics 매출지표에는 설정된 통화코드로 지표가 노출됩니다.
-한번 선택한 통화코드는 변경할 수 없으니 신중히 선택해 주세요.
+최초 한 번만 설정 가능하며 Analytics 매출 지표에는 설정된 통화 코드로 지표가 표시됩니다.
+한번 선택한 통화 코드는 변경할 수 없으니 신중히 선택해 주세요.
 
 ## Game > Gamebase > 콘솔 사용 가이드 > 결제
 
